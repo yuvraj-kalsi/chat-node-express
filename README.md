@@ -16,4 +16,4 @@
 **Technologies used in the project:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [NodeJs](https://nodejs.org/docs/latest/api/), [ExpressJs](https://expressjs.com/), [Socket.IO](https://socket.io/)
 
 **Deployed on [Render](https://render.com/):**
-https://ykalsi-chat.onrender.com
+https://chat-kalsi.onrender.com
